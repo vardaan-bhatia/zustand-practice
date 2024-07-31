@@ -2,8 +2,9 @@
 
 Welcome to the Zustand Movie App! This application allows users to browse a list of movies, add them to a "Watch Later" list, and view the list of movies they plan to watch later. The app uses Zustand for state management, providing a simple and efficient way to handle application state.
 
-![Zustand Movie App](![Screenshot 2024-08-01 015416](https://github.com/user-attachments/assets/0b0ef398-a3f3-4b31-927e-179ab5f252d6)
-) 
+![Screenshot 2024-08-01 015416](https://github.com/user-attachments/assets/0b0ef398-a3f3-4b31-927e-179ab5f252d6)
+![Screenshot 2024-08-01 021103](https://github.com/user-attachments/assets/37a49e7a-85c4-46e8-bc37-5e8818f76b25)
+
 ## Features
 
 - **Browse Movies**: View a list of movies fetched from a mock API.
